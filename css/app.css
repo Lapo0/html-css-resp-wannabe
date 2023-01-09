@@ -3,17 +3,17 @@
  ************************************************/
 
 
-@media screen and (max-width: 786px) {
+@media screen and (max-width: 768px) {
 
 	.container {
-		max-width: 750px;
+		max-width: 100%;
 	}
 }
 
 @media screen and (max-width: 480px) {
 
 	.container {
-		max-width: 450px;
+		max-width: 100%;
 	}
 
     .row{
